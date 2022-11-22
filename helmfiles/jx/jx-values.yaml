@@ -38,7 +38,7 @@ jxRequirements:
     repository: jx3-k3s-vault
   - key: staging
   ingress:
-    domain: change.me
+    domain: jx.stephan-hildebrandt.eu
     ignoreLoadBalancer: true
     kind: ingress
     namespaceSubDomain: .jx.
