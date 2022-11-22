@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - sthdev/jx3-k3s-vault
-      target_url: http://lighthouse.jx.jx.stephan-hildebrandt.eu/merge/status
+      target_url: http://lighthouse.jx.stephan-hildebrandt.eu/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null

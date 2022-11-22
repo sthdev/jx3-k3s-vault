@@ -19,4 +19,4 @@ spec:
             name: bucketrepo
             port:
               number: 80
-    host: bucketrepo.jx.jx.stephan-hildebrandt.eu
+    host: bucketrepo.jx.stephan-hildebrandt.eu

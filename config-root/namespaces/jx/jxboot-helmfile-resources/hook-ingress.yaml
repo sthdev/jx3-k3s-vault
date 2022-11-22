@@ -20,4 +20,4 @@ spec:
             port:
               number: 80
         path: "/hook"
-    host: hook.jx.jx.stephan-hildebrandt.eu
+    host: hook.jx.stephan-hildebrandt.eu
